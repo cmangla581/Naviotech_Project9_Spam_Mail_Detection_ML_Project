@@ -6,4 +6,6 @@ Here, we have used the Naive Bayes ML Algorithm which is useful in predicting th
 # Accuracy of Model : 97.94% 
 Here, I've also plotted the Confusion Matrix and Correlation Heatmap for the better analysis. 
 
-Here, a streamlit predictor has been made for making it useful for the users. 
+Here, a streamlit predictor has been made for making it useful for the users.  
+
+Streamlit Link : https://cmangla-basic-spam-mail-detector.streamlit.app/
